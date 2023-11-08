@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/55260f0f-a8b1-45d1-9dba-88533100b8ef/resourceGroups/PratyushNagarro/providers/Microsoft.Web/sites/PratyushStatic",
+    "appService.deploySubpath": "."
+}
